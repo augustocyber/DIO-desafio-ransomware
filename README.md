@@ -19,6 +19,3 @@ Foi utlizado o Kali Linux e a escrita do código no próprio Nano do Kali Linux.
 Este código é apenas para fins educacionais e deve ser usado de forma ética e responsável. Não é destinado a ser utilizado para prejudicar sistemas ou pessoas.
 
 **AVISO:** Nunca utilize tal código para criptografar ou manipular arquivos sem permissão explícita.
-
-## Agradecimentos
-Este desafio faz parte da Formação Cybersecurity Specialist e Santander Bootcamp Cibersegurança, agradecimentos à Dio e ao Santander por oferecerem essa oportunidade de aprendizado
